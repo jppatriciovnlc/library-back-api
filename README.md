@@ -11,13 +11,13 @@
 
 ## Index
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Prerequisites](#-prerequisites)
-- [Install](#-install)
-- [How To Use](#-how-to-use)
-- [Technologies](#-technologies)
-- [Contact](#-contact)
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Install](#install)
+- [How To Use](#how-to-use)
+- [Technologies](#technologies)
+- [Contact](#contact)
 
 ---
 
