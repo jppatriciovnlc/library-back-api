@@ -23,8 +23,8 @@
 
 
 ## Overview
-API para gestão de biblioteca, incluindo cadastro de usuários, rotina de login, cadastro de livros e gerenciamento de empréstimos.
-A aplicação foi construída em Node, utilizando typescrupt e o typeORM como interfaciador de um banco mariaDB.
+API for library management, including user registration, login routine, book registration and loan management.
+The application was built in Node, using typescrupt and typeORM as an interface for a mariaDB database.
 
 ---
 
